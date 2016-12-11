@@ -1,0 +1,2 @@
+http://bigbang.waterlin.org/bang/using-ffmpeg-under-windows-visual-cpp-environment/
+
