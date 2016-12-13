@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="test.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{BFEFA945-D86B-4703-89D4-FDBDCE33F2A2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
